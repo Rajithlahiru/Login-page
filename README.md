@@ -1,2 +1,2 @@
 # Login-page
-My 1st web page using HTML & CSS
+My 1st login page using HTML and CSS
